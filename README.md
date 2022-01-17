@@ -8,7 +8,7 @@ I am jocs, I like markdown and open source. If you like my applications, I hope 
 
 2. **One time donation via Alipay or WeChat**
 
-   | Alipay                                                                                             | WeCaht                                                                                             |
+   | Alipay                                                                                             | WeChat                                                                                             |
    |:--------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------:|
    | <img src="https://github.com/Jocs/sponsor.me/blob/master/images/alipay.jpeg?raw=true" width="400"> | <img src="https://github.com/Jocs/sponsor.me/blob/master/images/wechat.jpeg?raw=true" width="400"> |
 
